@@ -1,0 +1,6 @@
+{
+  "name": "Xernotes",
+  "description": "A fast, mobile-optimized notes app with unlimited text, note locking, liquid glass styling, and instant auto-save.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
